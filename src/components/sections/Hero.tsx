@@ -13,7 +13,7 @@ export default function Hero() {
           Fullstack &amp; Game Developer
         </p>
         <h1 className="text-5xl md:text-7xl font-bold text-white mb-6 tracking-tight">
-          Your Name
+          Bryan Gonzales
         </h1>
         <p className="text-white/60 text-lg md:text-xl mb-10 max-w-xl mx-auto leading-relaxed">
           I build web applications and games — from interactive UIs to 3D renderers.

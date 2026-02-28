@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx create-next-app@latest:*)",
+      "Bash(node:*)",
+      "Bash(where node:*)",
+      "Bash(fnm:*)",
+      "Bash(npx create-next-app@15:*)",
+      "Bash(cp:*)",
+      "Bash(npm install:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(npm run:*)",
+      "Bash(rm:*)",
+      "Bash(git:*)",
+      "Bash(npm test:*)",
+      "Bash(npx vercel:*)"
+    ]
+  }
+}
