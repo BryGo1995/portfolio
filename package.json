@@ -11,6 +11,7 @@
     "test:watch": "jest --watch"
   },
   "dependencies": {
+    "@tailwindcss/oxide-win32-x64-msvc": "^4.2.1",
     "framer-motion": "^12.34.3",
     "next": "15.5.12",
     "react": "19.1.0",
