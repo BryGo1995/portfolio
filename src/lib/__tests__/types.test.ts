@@ -1,4 +1,4 @@
-import { Project, Skill } from '../types'
+import { Project } from '../types'
 
 describe('Project type', () => {
   it('accepts a valid project object', () => {
