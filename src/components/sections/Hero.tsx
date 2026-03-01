@@ -10,13 +10,13 @@ export default function Hero() {
       <HeroCanvas />
       <div className="relative z-10 text-center px-6 max-w-3xl mx-auto">
         <p className="text-sky-400 text-sm font-mono tracking-widest uppercase mb-4">
-          Fullstack &amp; Game Developer
+          Tinkerer, Game Developer, Man of many hobbies
         </p>
         <h1 className="text-5xl md:text-7xl font-bold text-white mb-6 tracking-tight">
           Bryan Gonzales
         </h1>
         <p className="text-white/60 text-lg md:text-xl mb-10 max-w-xl mx-auto leading-relaxed">
-          I build web applications and games — from interactive UIs to 3D renderers.
+          I build some cool stuff. Mostly like to build games.
         </p>
         <div className="flex items-center justify-center gap-4">
           <a
